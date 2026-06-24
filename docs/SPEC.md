@@ -274,4 +274,4 @@ design choices. Contributions and review are welcome — see `CONTRIBUTING.md`.
 ---
 
 *PLEXUS — a braided, post-quantum, metadata-resistant communication protocol.*
-*Copyright (c) 2026 Ideatrino <ideatrino@proton.me>. Licensed under Apache-2.0.*
+*Copyright (c) 2026 Ideatrino <ideatrino@proton.me>.

@@ -2,7 +2,6 @@
 
 **A post-quantum, metadata-resistant secure-messaging protocol — reference implementation.**
 
-[![CI](https://github.com/Ideatrino/plexus/actions/workflows/ci.yml/badge.svg)](https://github.com/Ideatrino/plexus/actions/workflows/ci.yml)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 

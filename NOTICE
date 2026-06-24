@@ -1,0 +1,13 @@
+PLEXUS
+Copyright (c) 2026 Ideatrino <ideatrino@proton.me>
+All Rights Reserved.
+
+This product includes proprietary software developed by Ideatrino.
+
+The PLEXUS protocol design — including the braided dual-ratchet construction
+(cross-conditioned field and lattice ratchets with transcript-hash binding),
+the spanning entropy-pool pad (computational-to-information-theoretic OTP),
+and the ratchet-derived rotating rendezvous addressing scheme — is an original
+architecture conceived and specified by Ideatrino, 2026.
+
+For licensing inquiries: ideatrino@proton.me

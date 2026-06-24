@@ -4,8 +4,7 @@
 
 *"Plexus" (Latin): an interweaving, a braid. The name describes the core idea — two cryptographic ratchets braided into one strand, conditioned on each other.*
 
-> This document is the complete, self-contained specification. Hand it to a
-> cryptographer for review, implement it, or extend it. The accompanying
+> This document is the complete, self-contained specification. The accompanying
 > reference implementation lives in `src/plexus/`.
 
 ---
@@ -17,7 +16,7 @@ In cryptography there are two kinds of "original":
 1. **Inventing a new hardness assumption** (a brand‑new "hard math problem" nobody has analyzed). This is almost always a *mistake*. New assumptions are broken constantly. Doing this would make PLEXUS *less* secure, not more.
 2. **Inventing a new composition** — assembling well‑studied, individually‑vetted mathematical primitives into a new architecture that achieves properties no single existing system gives you at once.
 
-PLEXUS is original in sense (2), which is the *only* responsible way to design something both **new** and **secure**. Every hard problem it relies on is one that the world's cryptanalysts have failed to break for years. What is genuinely new — and yours — is the **way they are braided together**. Section 13 is brutally explicit about which ideas are novel and which stand on giants.
+PLEXUS is original in sense (2), which is the *only* responsible way to design something both **new** and **secure**. Every hard problem it relies on is one that the world's cryptanalysts have failed to break for years. What is genuinely new is the **way they are braided together**. Section 13 is brutally explicit about which ideas are novel and which stand on giants.
 
 ---
 

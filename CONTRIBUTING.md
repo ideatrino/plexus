@@ -54,8 +54,7 @@ cryptographic code without tests will not be merged.
 
 ## Licensing of contributions
 
-By submitting a contribution you agree it is licensed under the project's
-[Apache-2.0](LICENSE) license. See [AUTHORS](AUTHORS) — add yourself.
+By submitting a contribution you agree it is licensed under the project's license. See [AUTHORS](AUTHORS) — add yourself.
 
 ## Code of conduct
 

@@ -241,13 +241,13 @@ No widely deployed protocol covers this whole column at once. That's the point.
 
 ## 13. What's genuinely novel vs. standing on giants (full honesty)
 
-**Yours / new — the composition:**
+**Mine / new — the composition:**
 1. **The braid** — a dual ratchet where a fast field chain and a periodic lattice chain *cross‑condition* each other and are both bound to a woven transcript hash, giving cheap simultaneous forward + post‑compromise security with explicit splice/reorder resistance.
 2. **The spanning entropy‑pool pad** — one mechanism that is a computational OTP by default and becomes a *true* information‑theoretic OTP when fed a real‑entropy budget, on the same live channel.
 3. **Ratchet‑derived rendezvous addressing** — reusing root‑key state to generate unlinkable, self‑rotating mailbox addresses, folding metadata unlinkability into the key schedule for free.
 4. The unified parameterization and single‑permutation symmetric core tying it all together.
 
-**Giants you're standing on (deliberately, for safety):**
+**Giants I am standing on (deliberately, for safety):**
 - Module‑LWE / lattice KEMs and the Fujisaki–Okamoto transform (post‑quantum foundation).
 - Algebraic sponge permutations (Poseidon/Rescue family) and the sponge/duplex construction.
 - The ratchet *idea* (symmetric chains + asymmetric healing) and post‑quantum ratchets that already exist.
